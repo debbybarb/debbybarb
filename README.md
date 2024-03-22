@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @debbybarb
-- 👀 I’m interested in animes, games, coffee
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Oi, sou @debbybarb
+- 👀 Tenho 23 anos, brasileira, amante de leitura, animes e jogos 
+- 🌱 Atualmente estou cursando Sistemas de Informação na UFRRJ
+
 
 <!---
 debbybarb/debbybarb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
