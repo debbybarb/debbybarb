@@ -1,7 +1,7 @@
 - 👋 Oi, sou @debbybarb
 - 👀 Tenho 25 anos, brasileira, amante de leitura, animes e jogos 
 - 🌱 Atualmente estou cursando Sistemas de Informação na UFRRJ
-- Diretora Presidente da Signal Junior - Soluções em TI
+- Diretora Presidente da Signal Junior - Soluções em TI 2024-2025
 
 
 <!---
